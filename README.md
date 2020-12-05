@@ -1,0 +1,1 @@
+The GUI app gets an image from the directory and views it
